@@ -29,7 +29,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.session = "Y05kdk1BdXE="//session Id
 global.ownernomer = "94779821229" //ur number
-global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
+global.lang = "si" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['94779821229'] //ur premium number
 global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
